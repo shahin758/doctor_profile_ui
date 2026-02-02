@@ -16,7 +16,7 @@ class MianButton extends StatelessWidget {
     return ElevatedButton(
       style: ElevatedButton.styleFrom(
         backgroundColor: bgcolor,
-        minimumSize: Size(double.infinity, 50),
+        minimumSize: Size(double.infinity, 60),
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(20)),
       ),
       onPressed: onPress,

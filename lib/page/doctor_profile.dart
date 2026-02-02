@@ -43,7 +43,7 @@ class ProfileScreen extends StatelessWidget {
             Text(
               'Compassionate and dedicated doctor with strong clinical expertise, committed to providing patient-centered care, accurate diagnosis.',
               style: TextStyle(
-                fontSize: 15,
+                fontSize: 20,
                 fontWeight: FontWeight.normal,
                 color: Colors.black,
               ),
